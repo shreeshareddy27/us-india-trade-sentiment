@@ -1,0 +1,11 @@
+pandas>=2.0
+scikit-learn>=1.3
+emoji>=2.0
+vaderSentiment>=3.3
+joblib
+matplotlib
+openpyxl
+praw            # free Reddit API (Step 1, option A)
+apify-client    # paid scraper (Step 1, option B) - optional
+anthropic       # LLM labelling via API (Step 3) - optional
+streamlit
